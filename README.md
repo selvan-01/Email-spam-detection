@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail24.png" width="800">
+</p>
+
 # 📩 Email Spam Detection Web App (Machine Learning + Flask)
 
 An end-to-end Machine Learning project that classifies messages as **Spam** or **Not Spam** using **Natural Language Processing (NLP)** and a **Multinomial Naive Bayes model**, deployed through a **Flask web application**.
@@ -175,6 +179,12 @@ If you found this project useful:
 * 💬 Provide feedback
 
 ---
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/Email-spam-detection.git)
 
 ## 📬 Contact
 
